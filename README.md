@@ -7,7 +7,7 @@ This project is an AI-powered developer assistant using Gemini AI, Firebase, and
 ![image](https://github.com/user-attachments/assets/51356635-1f5f-4504-8d36-27abbcdef4fa)
 
 
-[AI-Powered Developer Assistant](ai-powered-dev.netlify.app)
+[AI-Powered Developer Assistant](https://ai-powered-dev.netlify.app/)
 
 Technologies Used:
 
