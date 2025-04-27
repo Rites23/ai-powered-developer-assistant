@@ -4,10 +4,10 @@ Overview
 
 This project is an AI-powered developer assistant using Gemini AI, Firebase, and React. It allows developers to integrate cutting-edge AI capabilities into their development environment, simplifying common tasks and boosting productivity.
 
-![image](https://github.com/user-attachments/assets/bef0de86-725a-43f0-a571-98db7e042cb2)
+![image](https://github.com/user-attachments/assets/51356635-1f5f-4504-8d36-27abbcdef4fa)
 
 
-[AI-Powered Developer Assistant](https://ai-powered-developer-assistant.netlify.app)
+[AI-Powered Developer Assistant](ai-powered-dev.netlify.app)
 
 Technologies Used:
 
