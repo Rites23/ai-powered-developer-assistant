@@ -41,16 +41,20 @@ Steps to Install:
 
 - Clone the repository
 
-bash
+```bash
 git clone https://github.com/Rites23/ai-powered-developer-assistant.git
+```
 
-bash
+```bash
 cd ai-powered-developer-assistant
+```
 
 
 Install dependencies:
-bash
+
+```bash
 npm install
+```
 
 Setup Firebase:
 
@@ -62,19 +66,20 @@ Setup Firebase:
 
 - Add your Firebase configuration to the .env file:
 
-bash
+```bash
 REACT_APP_FIREBASE_API_KEY=your-api-key
 REACT_APP_FIREBASE_AUTH_DOMAIN=your-auth-domain
 REACT_APP_FIREBASE_PROJECT_ID=your-project-id
 REACT_APP_FIREBASE_STORAGE_BUCKET=your-storage-bucket
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your-sender-id
 REACT_APP_FIREBASE_APP_ID=your-app-id
+```
  
-Start the Development Server
+Start the Development Server:
 
-bash
+```bash
 npm start
-
+```
 
 Visit http://localhost:3000 in your browser to see the app in action.
 
