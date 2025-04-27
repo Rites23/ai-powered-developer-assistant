@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.*
+
+# Vite cache
+.vite/
+
+# Mac system files
+*.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Misc
+*.log
+
+# Tailwind JIT cache
+.tailwind-cache/
